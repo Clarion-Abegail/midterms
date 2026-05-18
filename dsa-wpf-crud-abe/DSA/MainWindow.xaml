@@ -1,0 +1,67 @@
+﻿<Window x:Class="DSA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DSA"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FFBFE0BF">
+
+        <StackPanel Orientation="Vertical">
+            <Label Content="Shopping Cart System" FontSize="20" FontWeight="Bold"/>
+            <DataGrid x:Name="myDataGrid2" ItemsSource="{Binding ListOfItems}" AutoGenerateColumns="False" Height="132" Margin="15" SelectionChanged="myDataGrid2_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="*"/>
+                    <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*"/>
+                    <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="*"/>
+                    <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+          <!--
+            <DataGrid x:Name="myDataGrid3" ItemsSource="{Binding ListOfItems}" AutoGenerateColumns="False" Height="92" Margin="15" SelectionChanged="myDataGrid3_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="*"/>
+                    <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*"/>
+                    <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="*"/>
+                    <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            -->  
+
+            <StackPanel Orientation= "Horizontal" HorizontalAlignment="Center" Margin="15">
+                <!--Id-->
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Margin="5">
+                    <Label Content="Id"/>
+                    <TextBox x:Name="Id"  Width="40"/>
+                </StackPanel>
+                <!--Name-->
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Margin="5" >
+                    <Label Content="Name" />
+                    <TextBox x:Name="Name"  Width="80"/>
+                </StackPanel>
+                <!--Description-->
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Margin="5" >
+                    <Label Content="Description" />
+                    <TextBox x:Name="Description"  Width="200"/>
+                </StackPanel>
+
+                <!--Price-->
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Margin="5" >
+                    <Label Content="Price" />
+                    <TextBox x:Name="Price"  Width="80"/>
+                </StackPanel>
+
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Add Item" Click="AddItem_Click" Width="100" Margin="5"/>
+                <Button Content="Remove Item" Click="RemoveItem_Click" Width="100" Margin="5"/>
+                <Button Content="Clear" Click="ClearItem_Click"  Width="100" Margin="5"/>
+                <Button Content="Add To Cart" Click="AddedItem_Click" Width="100" Margin="5"/>
+            </StackPanel>
+            <!--Buttons-->
+        </StackPanel>
+
+    </Grid>
+</Window>

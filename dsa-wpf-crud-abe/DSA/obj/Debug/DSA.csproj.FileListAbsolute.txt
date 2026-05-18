@@ -1,0 +1,15 @@
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\bin\Debug\DSA.exe.config
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\bin\Debug\DSA.exe
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\bin\Debug\DSA.pdb
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\obj\Debug\DSA.csproj.AssemblyReference.cache
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\obj\Debug\MainWindow.g.cs
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\obj\Debug\App.g.cs
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\obj\Debug\DSA_MarkupCompile.cache
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\obj\Debug\DSA_MarkupCompile.lref
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\obj\Debug\MainWindow.baml
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\obj\Debug\DSA.g.resources
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\obj\Debug\DSA.Properties.Resources.resources
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\obj\Debug\DSA.csproj.GenerateResource.cache
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\obj\Debug\DSA.csproj.CoreCompileInputs.cache
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\obj\Debug\DSA.exe
+C:\Users\25-008s\Source\Repos\dsa-wpf-crud-abe\DSA\obj\Debug\DSA.pdb
