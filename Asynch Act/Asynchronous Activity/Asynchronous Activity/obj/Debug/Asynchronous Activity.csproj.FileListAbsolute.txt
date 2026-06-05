@@ -1,0 +1,16 @@
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\Asynchronous Activity.csproj.AssemblyReference.cache
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\MainWindow.g.cs
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\App.g.cs
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\Asynchronous Activity_MarkupCompile.cache
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\Asynchronous Activity_MarkupCompile.lref
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\bin\Debug\Asynchronous Activity.exe.config
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\bin\Debug\Asynchronous Activity.exe
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\bin\Debug\Asynchronous Activity.pdb
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\MainWindow.baml
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\Asynchronous Activity.g.resources
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\Asynchronous_Activity.Properties.Resources.resources
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\Asynchronous Activity.csproj.GenerateResource.cache
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\Asynchronous Activity.csproj.CoreCompileInputs.cache
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\Asynchronous Activity.exe
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\Asynchronous Activity.pdb
+C:\Users\Abegail\OneDrive\Documents\Asynch Act\Asynchronous Activity\Asynchronous Activity\obj\Debug\Asynchronous Activity.exe.config
